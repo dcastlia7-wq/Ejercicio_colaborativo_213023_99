@@ -1,1 +1,15 @@
 2026-05-06 15:06:45,833 - INFO - Cliente creado correctamente: Laura
+2026-05-06 15:12:45,460 - INFO - Cliente creado correctamente: Laura
+2026-05-06 15:15:16,674 - INFO - Cliente creado correctamente: Luis Felipe Suárez Muñoz
+2026-05-06 15:15:16,675 - INFO - Cliente creado correctamente: Juan David Rivera Betancur
+2026-05-06 15:15:16,675 - INFO - Cliente creado correctamente: Luis Mariano Bedoya Velásquez
+2026-05-06 15:15:16,675 - INFO - Cliente creado correctamente: Daniela Castro Chaverra
+2026-05-06 15:15:16,675 - ERROR - El nombre del cliente no puede estar vacío.
+2026-05-06 15:15:16,677 - ERROR - El correo electrónico no es válido.
+2026-05-06 15:15:16,677 - ERROR - El documento debe ser numérico y tener mínimo 6 dígitos.
+2026-05-06 15:15:16,678 - ERROR - Horas inválidas
+2026-05-06 15:15:16,678 - ERROR - Error al procesar reserva
+2026-05-06 15:15:16,678 - ERROR - Días inválidos
+2026-05-06 15:15:16,678 - ERROR - Error al procesar reserva
+2026-05-06 15:15:16,678 - ERROR - El servicio 'Sala de Conferencias' no se encuentra disponible.
+2026-05-06 15:15:16,678 - ERROR - Error al procesar reserva
